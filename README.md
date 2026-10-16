@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+Zaid+Daraghmeh+👋;Software+Architect+|+UI%2FUX+Engineer;Future+Tech+Founder+|+CS+Senior" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+Zaid+Daraghmeh+👋;Software+Architect+|+Systems+Engineer;Full-Stack+|+AI+%26+Computer+Vision+Developer" alt="Typing Text" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="230" alt="Coding GIF">
 </div>
 
 <p align="center">
@@ -27,26 +27,18 @@
 
 ```json
 {
-  "name": "زيد دراغمة",
-  "status": "طالب سنة أخيرة في علم الحاسوب - الجامعة العربية الأمريكية | مطور برمجيات مستقل",
-  "core_focus": ["تكامل الأنظمة المعقدة", "هندسة معمارية مبنية على الاختبار", "واجهات مستخدم مريحة وذكية"],
-  "vision": "دمج علوم الحاسوب مع القانون المعلوماتي للتعامل مع تشريعات الذكاء الاصطناعي وتأسيس شركة برمجيات متكاملة."
+  "name": "Zaid Bashar Daraghmeh (زيد دراغمة)",
+  "role": "Software Architect & Systems Engineer",
+  "education": "B.Sc. in Computer Science - Arab American University",
+  "core_focus": [
+    "Enterprise Desktop & Offline-First POS Systems",
+    "Real-time Hybrid Cloud Synchronization (WebSockets / Supabase)",
+    "Applied AI (Google Gemini, MediaPipe Computer Vision, OpenCV)",
+    "Full-Stack Web & Mobile Architecture (React, Vite, Node.js, Capacitor)"
+  ],
+  "mission": "Engineering high-reliability software that solves mission-critical business challenges with elegant architectures."
 }
 ```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
-</div>
-
-### 🧠 الفلسفة الهندسية ومعمارية الأنظمة
-
-أبني الأنظمة بدءاً من منظور المستخدم النهائي. قبل كتابة أي سطر برمجي، أقوم بتحليل متطلبات العميل بدقة لضمان أن المنتج النهائي قوي، فائق السرعة، وسهل الاستخدام حتى للأشخاص غير التقنيين.
-
-> ⚙️ **اختبار وتكامل صارم (Rigorous Testing):** بصفتي مطوراً مستقلاً أتعامل مع دمج أنظمة معقدة، أعتبر الاختبار الشامل أمراً إلزامياً لا تنازل عنه. كل تعديل أو إعادة هيكلة لقاعدة البيانات يخضع لاختبارات دقيقة عبر أبسط وأعقد السيناريوهات لضمان نظام موحد ومقاوم للانهيار.
-
-> 🎨 **واجهات مستخدم مبنية على الأداء (Performance-Driven UI/UX):** التصميم ليس مجرد ألوان وجماليات؛ بل هو تقليل للجهد الذهني وخلق رحلة مستخدم مريحة. أصمم واجهات جذابة وممتعة للعين مع ضمان صارم بأن العناصر المرئية والحركات لن ترهق أجهزة المستخدمين أو تضعف أداء النظام.
-
-> ⚖️ **الرؤية التقنية-القانونية (The Legal-Tech Vision):** في عصر يحكمه الذكاء الاصطناعي، تكافح الأطر القانونية التقليدية لمواكبته. أسعى لدمج خبرتي التقنية العميقة مع القانون المعلوماتي (Informatics Law) لأصبح خبيراً متخصصاً في التعقيدات التقنية-القانونية، مما يضع حجر الأساس لتأسيس شركة برمجيات متكاملة مستقبلاً.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
@@ -55,32 +47,41 @@
 ### 🛠️ الترسانة التقنية (Technical Arsenal)
 
 <div align="center">
-  <h4>اللغات وأطر العمل (Languages & Frameworks)</h4>
+  <h4>Languages, Frameworks & Desktop Platforms</h4>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/React_18%2F19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
-  <h4>قواعد البيانات وأدوات التصميم (Databases & UI Tools)</h4>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <h4>AI, Real-Time & Databases</h4>
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_MediaPipe-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite_(WAL)-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase_PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
 </div>
 
-### 🚀 أبرز المشاريع البرمجية (Featured Projects)
+### 🚀 أبرز المشاريع الهندسية (Featured Projects)
 
-| 🌟 المشروع | 📋 الوصف | 🛠️ التقنيات والمعمارية |
+| 🌟 المشروع (Project) | 📋 الوصف التقني (Description) | 🛠️ المعمارية والأدوات (Tech Stack) |
 | :--- | :--- | :--- |
-| **[Master Gym System]**<br>*(مشروع التخرج)* | منصة إدارة شاملة ومتقدمة لنوادي اللياقة البدنية تعتمد على الذكاء الاصطناعي لأتمتة المهام الإدارية المعقدة. | **Agentic AI**, QR Attendance Protocols, Automated Task Scheduling. |
-| **[Double Shoter]** | نظام نقاط بيع (POS) وإدارة مخزون عالي الأداء تمت هندسته خصيصاً للعمل بكفاءة على الأجهزة ذات المواصفات المنخفضة. | **C# WPF**, **SQLite** (Self-healing DB algorithms, Automated Backups). |
-| **[Vellox Store]** | تطبيق تجارة إلكترونية متكامل لبيع الأثاث، يتميز بهوية بصرية مخصصة وتجربة مستخدم شديدة السلاسة. | **Full-Stack**, UI/UX Custom Branding, **Android APK**. |
-| **[CareerRoom]** | بيئة توظيف ذكية تم تصميمها لتحسين عملية استقطاب الكفاءات ومطابقة الوظائف بناءً على متطلبات السوق. | **AI Integration**, System Architecture, Data Structuring. |
+| **[Tabler](https://github.com/zaidwork/Tabler)** | نظام كاشير ونقاط بيع (POS) هجين عالي الأداء مع تطبيق جارسون PWA متزامن لحظياً ومُحسّن للعتاد الاقتصادي. | **.NET 10 WPF**, **SQLite WAL**, **React 18**, **Supabase Realtime**, **ESC/POS Thermal Engine** |
+| **[Car Rental Management System](https://github.com/zaidwork/Car-Rental-Management-System)** | منصة شاملة لإدارة أساطيل وعقود تأجير السيارات، تتضمن فحص أضرار تفاعلي، عدادات تنازلية، وتوليد وثائق A4 رسمية. | **.NET 10 WPF**, **EF Core 10**, **SQLite**, **React Dashboard**, **Inno Setup** |
+| **[Master Gym](https://github.com/zaidwork/Master-Gym)** | منصة إدارة نوادٍ رياضية متكاملة مدعومة بمساعد مدرب ذكاء اصطناعي (AI Copilot) لتخصيص التمارين وإدارة الاشتراكات. | **Google Gemini AI**, **Node.js REST**, **Supabase PostgreSQL**, **Athlete PWA Portal** |
+| **[Laring AI Camera](https://github.com/zaidwork/camera)** | نظام مراقبة غرف وتحليل كائنات وتعبيرات وجه لحظي فائق السرعة عبر بث إطارات الفيديو بالـ WebSockets. | **Python FastAPI**, **Google MediaPipe**, **OpenCV**, **React 18**, **Docker** |
+| **[WhatsApp Web Clone](https://github.com/zaidwork/whatsapp-zaid)** | منصة محادثة فورية ثنائية الاتجاه تحاكي واتساب ويب بالكامل مع مؤشرات الكتابة والحالة والاتصال اللحظي. | **Node.js**, **Socket.IO**, **React 18**, **LibSQL / SQLite**, **JWT Auth** |
+| **[Vellox Men's World](https://github.com/zaidwork/-store-vellox-pro)** | متجر إلكتروني فاخر متعدد المنصات (Web + Android APK) بحماية مالية كاملة عبر إجراءات الخادم المخزنة (RPCs). | **React 19**, **Capacitor Android**, **Supabase RPCs**, **EmailJS OTP**, **Glassmorphism UI** |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
@@ -90,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/zaidwork">
-    <img src="https://github-readme-stats.vercel.app/api?username=zaidwork&show_icons=true&theme=radical&hide_border=true&locale=ar" alt="Zaid's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zaidwork&show_icons=true&theme=radical&hide_border=true" alt="Zaid's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/zaidwork">
     <img src="https://streak-stats.demolab.com/?user=zaidwork&theme=radical&hide_border=true" alt="Zaid's GitHub Streak" width="48%" />
