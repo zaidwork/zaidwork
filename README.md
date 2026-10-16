@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=230&section=header&text=Zaid%20Bashar%20Daraghmeh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Architect%20%7C%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Zaid%20Bashar%20Daraghmeh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Architect%20-%20Full-Stack%20and%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+There,+I'm+Zaid+Bashar+Daraghmeh+👋;B.Sc.+in+Computer+Science+|+Arab+American+University+(AAUP);Enterprise+Desktop+(.NET+10)+%26+Full-Stack+Web+Architect;Applied+AI,+Computer+Vision+%26+Real-Time+Systems+Engineer;Freelance+Developer+for+Enterprises+%26+Individuals+🚀" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+There!+I+am+Zaid+Bashar+Daraghmeh;B.Sc.+in+Computer+Science+-+AAUP;Full-Stack+Engineer+and+Solutions+Architect;Enterprise+Desktop+(.NET+10)+and+AI+Systems;Freelance+Developer+for+Enterprises+and+Individuals" alt="Typing Text" />
 </div>
 
 <p align="center">
@@ -52,7 +52,7 @@
 
 | المعيار الهندسي (Standard) | التطبيق العملي في الأنظمة (Implementation) |
 | :--- | :--- |
-| 🛡️ **Offline-First Resilience** | هندسة أنظمة محلية وهجينة تضمن استمرار العمل والمبيعات بنسبة كاملة حتى при انقطاع الإنترنت، مع مزامنة سحابية تلقائية. |
+| 🛡️ **Offline-First Resilience** | هندسة أنظمة محلية وهجينة تضمن استمرار العمل والمبيعات بنسبة كاملة حتى عند انقطاع الإنترنت، مع مزامنة سحابية تلقائية. |
 | ⚡ **Hardware Optimization** | ضبط استهلاك الذاكرة والمعالج بدقة عالية لتعمل الأنظمة بسلاسة فائقة حتى على أجهزة الكاشير الاقتصادية والضعيفة. |
 | 🔒 **Server-Side Integrity** | حماية كافة العمليات المالية وحسابات المخزون عبر إجراءات الخادم المخزنة لمنع أي تلاعب بالأسعار أو البيانات من جهة العميل. |
 | 🏗️ **Clean & Scalable Code** | بناء معمارية برمجية نظيفة، مقسمة، وقابلة للتوسع مع حزم تنصيب رسمية جاهزة للعمل الفوري عند العميل. |
@@ -116,16 +116,16 @@
 
 <p align="center">
   <a href="https://github.com/zaidwork">
-    <img src="https://github-readme-stats.vercel.app/api?username=zaidwork&show_icons=true&theme=radical&hide_border=true" alt="Zaid's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zaidwork&show_icons=true&theme=radical&hide_border=true" alt="Zaid's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/zaidwork">
-    <img src="https://streak-stats.demolab.com/?user=zaidwork&theme=radical&hide_border=true" alt="Zaid's GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=zaidwork&theme=radical&hide_border=true" alt="Zaid's GitHub Streak" height="165" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zaidwork">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidwork&theme=react-dark&hide_border=true&area=true" width="96%" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidwork&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="165" />
   </a>
 </p>
 
